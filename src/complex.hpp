@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-namespace fx {
+namespace FX {
 
 class Complex {
 
@@ -217,4 +217,4 @@ private:
 
 };
 
-} // namespace fx
+} // namespace FX
